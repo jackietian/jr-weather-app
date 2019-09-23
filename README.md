@@ -1,8 +1,10 @@
-# weather app
+Weather app
+======
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ![project screenshot](public/screenshot.png)
 
-## lesson 1
-Setup html structure
-Sample code is in branch lesson-1
+## Lesson 1
+to setup html structure
+
+> `git checkout lesson-1`
